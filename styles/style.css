@@ -44,3 +44,7 @@ hr.rounded {
 	padding-left: 10px;
 	padding-bottom: 0px;
 }
+
+.flickr_badge_image {}
+.flickr_badge_image img {border: 1px solid #666666 !important;}
+#flickr_badge_wrapper {width:420px}
