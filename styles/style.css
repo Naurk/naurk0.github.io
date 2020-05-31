@@ -52,3 +52,37 @@ hr.rounded {
 .video-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; }
 
 .video-container iframe, .video-container object, .video-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
+.container {
+	width: 100%;
+	margin: 0 auto;
+}
+
+article {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	margin: 2em ;
+}
+
+article .right-side{
+	width: 100%;
+}
+
+article .right-side p.article-numero{
+	font-style: italic;
+}
+
+article. right-side h3{
+	color: green
+}
+
+article .right-side .content-preview{
+	font-size: 1.1em;
+	color: red;
+}
+
+article .left-side img{
+	width: 100%;
+	object-fit: cover;
+	
+	
