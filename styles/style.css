@@ -83,9 +83,6 @@ article  img{
 	float: left;
 	}
 	
-article.  h3{
-	color: green
-}
 	
 article .article-numero{
 	font-style: italic;
@@ -97,3 +94,6 @@ article .author{
 article .cathegory{
 	font-style: italic;
 }
+article h2.article-title{
+	color: black;
+	}
