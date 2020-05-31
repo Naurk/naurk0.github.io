@@ -94,10 +94,7 @@ article .author{
 article .cathegory{
 	font-style: italic;
 }
-article h2.article-title{
+article h2{
 	color: red;
 	}
-	
-.article-title{
-	color: red;
-	}	
+
