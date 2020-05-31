@@ -92,7 +92,7 @@ article .article-numero{
 
 article .author{
 	font-style: italic;
-	padding-top: 0px;
+	padding-top: -20px;
 	color: red;
 }
 article .cathegory{
