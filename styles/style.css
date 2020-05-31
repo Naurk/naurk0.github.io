@@ -80,9 +80,9 @@ article .left-side img{
 	object-fit: cover;
 	
 article  img{
-	float: left;
-	width: 100px;
-	height: 100px;
+	float: right;
+	width: 10px;
+	height: 10px;
 	}
 	
 	
