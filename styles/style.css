@@ -67,13 +67,12 @@ article .right-side p.article-numero{
 	font-style: italic;
 }
 
-article. right-side h3{
+article h3{
 	color: green
 }
 
 .content-preview{
 	font-size: 1.1em;
-	color: red;
 }
 
 article .left-side img{
