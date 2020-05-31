@@ -71,7 +71,7 @@ article. right-side h3{
 	color: green
 }
 
-article .right-side .content-preview{
+.content-preview{
 	font-size: 1.1em;
 	color: red;
 }
