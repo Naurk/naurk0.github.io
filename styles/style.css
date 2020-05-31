@@ -58,11 +58,6 @@ hr.rounded {
 	margin: 0 auto;
 }
 
-article {
-	display: grid;
-	grid-template-columns: 1fr 1fr;
-	margin: 2em ;
-}
 
 article .right-side{
 	width: 100%;
@@ -88,4 +83,13 @@ article .left-side img{
 article  img{
 	width: 150p;
 	height: 150p;
+	float: left;
 	}
+	
+article.  h3{
+	color: green
+}
+	
+article p.article-numero{
+	font-style: italic;
+}
