@@ -87,6 +87,13 @@ article.  h3{
 	color: green
 }
 	
-article p.article-numero{
+.article-numero{
+	font-style: italic;
+}
+
+.author{
+	font-style: italic;
+}
+.cathegory{
 	font-style: italic;
 }
