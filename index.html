@@ -62,7 +62,20 @@ $(function(){
 	
 <div class='wrapper'style="padding-top: 10px; padding-right: 200px;">
 <div style="padding-top: 10px; background-color: #F5F5F5">
-<p>TESTO DI PROVA: ciao, hello, prova, sasa, prova. TESTO DI PROVA: ciao, hello, prova, sasa, prova.TESTO DI PROVA: ciao, hello, prova, sasa, prova.TESTO DI PROVA: ciao, hello, prova, sasa, prova.</p>
+
+    <script
+    src="https://code.jquery.com/jquery-3.3.1.js"
+    integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+    crossorigin="anonymous">
+    </script>
+    <script> 
+$(function(){
+  $("#content").load("/articles/hello-world.html"); 
+});
+</script>
+	
+<div id="content"></div>	
+	
 </div>
 </div>
 
