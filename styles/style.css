@@ -108,7 +108,7 @@ article h2{
 	color: green;
 	}
 
-@media only screen and (min-width: 768px):
+@media only screen and (max-width: 768px):
 	.sidebar {
 		display: none;
 }
