@@ -121,9 +121,9 @@ article h2{
 @media only screen and (max-width:740px) {
 	.container {
 		width: 100%;
-			background-color: black;
 	}
 .wrapper-sidebar {
+	display: none;
 	margin-right: auto;
 	margin-left: auto;
 	width: 100%;
