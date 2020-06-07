@@ -55,6 +55,7 @@ hr.rounded {
 .wrapper-content {
 	width: 80%;
 	float: left;
+	margin: 5px;
 	padding-top: 20px;
 	padding-right: 10px;
 	background-color: #F5F5F5;
