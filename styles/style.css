@@ -119,7 +119,7 @@ article h2{
 	color: green;
 	}
 
-@media only screen and (min-width:990px) {
+@media only screen and (max-width:740px) {
 .container {
 	width: 100%;
 
