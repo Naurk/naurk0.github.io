@@ -45,6 +45,18 @@ hr.rounded {
 	padding-bottom: 0px;
 }
 
+.wrapper-sidebar {
+	margin-right: auto;
+	margin-left: auto;
+	max-width: 960px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	
+	padding-top: 0px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 0px;
+}
 .sidebar {
 	width: 20%;
 	float: right
@@ -108,4 +120,21 @@ article h2{
 	color: green;
 	}
 
+@media screen and (max-width:640px):
+.container {
+	width: 100%;
 
+}
+.wrapper-sidebar {
+	margin-right: auto;
+	margin-left: auto;
+	max-width: 100%;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	
+	padding-top: 0px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 0px;
+	background-color: red;
+}
