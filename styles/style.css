@@ -108,12 +108,4 @@ article h2{
 	color: green;
 	}
 
-@media screen and (max-width:640px):
-.sidebar {
-	width: 100%;
-	float: left;
-	}
-.container {
-	width: 100%;
 
-}
