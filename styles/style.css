@@ -108,7 +108,7 @@ article h2{
 	color: green;
 	}
 
-@media only screen and (min-width: 768px):
+@media screen and (max-width: 768px):
 .sidebar {
 	width: 20%;
 	float: left;
