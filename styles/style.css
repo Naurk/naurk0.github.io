@@ -60,6 +60,20 @@ hr.rounded {
 	float: right;
 }
 
+.wrapper-content {
+	margin-right: auto;
+	margin-left: auto;
+	max-width: 960px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	
+	padding-top: 10px;
+	padding-right: 200px;
+	padding-left: 10px;
+	padding-bottom: 0px;
+	background-color: #F5F5F5
+}
+
 .flickr_badge_image {}
 .flickr_badge_image img {border: 0px solid #666666 !important; width: 100%; max-width: 400px; height: auto;}
 .flickr_badge_wrapper {width:100px}
