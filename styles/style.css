@@ -54,10 +54,10 @@ hr.rounded {
 
 .wrapper-content {
 	width: 80%;
-	margin: 5px;
+	margin: 10px;
 	padding-top: 20px;
 	padding-right: 10px;
-	background-color: red;
+	background-color: #F5F5F5;
 }
 
 .flickr_badge_image {}
