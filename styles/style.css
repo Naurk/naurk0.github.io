@@ -45,6 +45,11 @@ hr.rounded {
 	padding-bottom: 0px;
 }
 
+.siderbar {
+	width: 20%;
+	float: right
+	}
+
 .flickr_badge_image {}
 .flickr_badge_image img {border: 0px solid #666666 !important; width: 100%; max-width: 400px; height: auto;}
 .flickr_badge_wrapper {width:100px}
@@ -102,6 +107,9 @@ article .cathegory{
 article h2{
 	color: green;
 	}
-.img-article {
-	width: 100%
+
+@media only scren and (min-width: 768px):
+	.sidebar {
+		display: none;
+}
 }
