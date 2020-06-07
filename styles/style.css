@@ -53,10 +53,8 @@ hr.rounded {
 }
 
 .wrapper-content {
-	padding-top: 10px;
-	padding-right: 200px;
-	padding-left: 10px;
-	padding-bottom: 0px;
+	width: 80%;
+	float: left;
 	background-color: red;
 }
 
