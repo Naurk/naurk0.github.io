@@ -18,7 +18,6 @@ input{display:none}
 #slide4:checked ~ #slides .inner{margin-left:-300%}
 #slide5:checked ~ #slides .inner{margin-left:-400%}
 #container{width:100%;overflow:hidden}
-article img{width:100%}
 #slides .inner{width:500%;line-height:0}
 #slides article{width:20%;float:left}
 #commands{margin:-25% 0 0 0;width:100%;height:50px}
