@@ -5,7 +5,7 @@ q:before,q:after,blockquote:before,blockquote:after{content:"";content:none}
 a img{border:none}
 #slider{text-align:center}
 strong{font-weight:bold}
-label,a{color:brown;cursor:pointer;text-decoration:none;font-style:italic}
+label,a{color:brown;cursor:pointer;text-decoration:none}
 label:hover,a:hover{color:#ddd!important}
 *{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}
 label,#active,img{-moz-user-select:none;-webkit-user-select:none}
