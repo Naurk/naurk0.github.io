@@ -64,6 +64,11 @@ hr.rounded {
 	display: none;
 }
 
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
 .flickr_badge_image {}
 .flickr_badge_image img {border: 0px solid #666666 !important; width: 100%; max-width: 400px; height: auto;}
 .flickr_badge_wrapper {width:100px}
